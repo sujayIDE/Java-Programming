@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Array/Array.iml" filepath="$PROJECT_DIR$/Array/Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ClassObject/ClassObject.iml" filepath="$PROJECT_DIR$/ClassObject/ClassObject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Constructor/Constructor.iml" filepath="$PROJECT_DIR$/Constructor/Constructor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Data Types/Data Types.iml" filepath="$PROJECT_DIR$/Data Types/Data Types.iml" />
+      <module fileurl="file://$PROJECT_DIR$/For/For.iml" filepath="$PROJECT_DIR$/For/For.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IfElse/IfElse.iml" filepath="$PROJECT_DIR$/IfElse/IfElse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/Inheritance/Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java-Programming.iml" filepath="$PROJECT_DIR$/.idea/Java-Programming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Operators/Operators.iml" filepath="$PROJECT_DIR$/Operators/Operators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pattern/Pattern.iml" filepath="$PROJECT_DIR$/Pattern/Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ScannerExample/ScannerExample.iml" filepath="$PROJECT_DIR$/ScannerExample/ScannerExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SetterGetter/SetterGetter.iml" filepath="$PROJECT_DIR$/SetterGetter/SetterGetter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Static/Static.iml" filepath="$PROJECT_DIR$/Static/Static.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String/String.iml" filepath="$PROJECT_DIR$/String/String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Switch/Switch.iml" filepath="$PROJECT_DIR$/Switch/Switch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TypeCasting/TypeCasting.iml" filepath="$PROJECT_DIR$/TypeCasting/TypeCasting.iml" />
+    </modules>
+  </component>
+</project>
