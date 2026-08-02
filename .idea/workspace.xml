@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b9b432f9-ce89-4c40-935d-4d404938c312" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/RelationShip/src/strongassociation/House.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RelationShip/src/strongassociation/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RelationShip/src/strongassociation/Room.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Excception_Handling/src/customexception/InvalidAge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Excception_Handling/src/customexception/Vote.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HelloWorld/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorld/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/RelationShip/weakassociation/Library.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RelationShip/weakassociation/Library.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/RelationShip/weakassociation/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RelationShip/weakassociation/Student.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +51,26 @@
     "onboarding.tips.debug.path": "C:/Users/GeetArjun/Desktop/Java-Programming/RelationShip/src/Main.java"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="customexception.Main" />
+      <module name="Excception_Handling" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="customexception.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="b9b432f9-ce89-4c40-935d-4d404938c312" name="Changes" comment="" />

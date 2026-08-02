@@ -15,7 +15,7 @@ public class AccountService {
         if(amount<0)
         {
             throw new InvalidAmountException("Enter valid amount...");
-        }Mu
+        }
         balance+=amount;
         System.out.println("Amount deposit success...");
         System.out.println("Balance: "+balance);
