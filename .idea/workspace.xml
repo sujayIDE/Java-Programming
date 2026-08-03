@@ -2,8 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b9b432f9-ce89-4c40-935d-4d404938c312" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Excception_Handling/src/rethrow/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MultiThreading/src/com/join/basicmainthread/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MultiThreading/src/com/join/basicmainthread/Mythread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MultiThreading/src/com/join/sumcalculation/CalculateThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MultiThreading/src/com/join/sumcalculation/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MultiThreading/src/com/join/twothreaad/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MultiThreading/src/com/join/twothreaad/ThreadA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MultiThreading/src/com/join/twothreaad/ThreadB.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Excception_Handling/src/rethrow/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Excception_Handling/src/rethrow/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HelloWorld/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorld/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,6 +45,10 @@
     "Application.MethodOverloading.executor": "Run",
     "Application.Test.executor": "Run",
     "Application.ThreeDArray.executor": "Run",
+    "Application.com.join.basicmainthread.Main.executor": "Run",
+    "Application.com.join.sumcalculation.Main.executor": "Run",
+    "Application.com.join.twothreaad.Main.executor": "Run",
+    "Application.rethrow.Main.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
@@ -50,13 +61,52 @@
     "onboarding.tips.debug.path": "C:/Users/GeetArjun/Desktop/Java-Programming/RelationShip/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.rethrow.Main">
+  <component name="RunManager" selected="Application.com.join.sumcalculation.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="customexception.Main" />
       <module name="Excception_Handling" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="customexception.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.join.basicmainthread.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.join.basicmainthread.Main" />
+      <module name="MultiThreading" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.join.basicmainthread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.join.sumcalculation.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.join.sumcalculation.Main" />
+      <module name="MultiThreading" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.join.sumcalculation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.join.twothreaad.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.join.twothreaad.Main" />
+      <module name="MultiThreading" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.join.twothreaad.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,6 +129,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.com.join.sumcalculation.Main" />
+        <item itemvalue="Application.com.join.twothreaad.Main" />
+        <item itemvalue="Application.com.join.basicmainthread.Main" />
         <item itemvalue="Application.rethrow.Main" />
         <item itemvalue="Application.Main" />
       </list>
