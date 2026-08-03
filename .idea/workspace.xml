@@ -2,18 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b9b432f9-ce89-4c40-935d-4d404938c312" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Test 3-8 Abstraction/Test 3-8 Abstraction.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test 3-8 Abstraction/src/bankingmanagementsystem/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test 3-8 Abstraction/src/bankingmanagementsystem/HDFC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test 3-8 Abstraction/src/bankingmanagementsystem/ICICI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test 3-8 Abstraction/src/bankingmanagementsystem/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test 3-8 Abstraction/src/bankingmanagementsystem/SBI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test 3-8 Abstraction/src/fooddeliveryapp/DessertOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test 3-8 Abstraction/src/fooddeliveryapp/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test 3-8 Abstraction/src/fooddeliveryapp/NonVegOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test 3-8 Abstraction/src/fooddeliveryapp/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test 3-8 Abstraction/src/fooddeliveryapp/VegOrder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticeProgram/src/patterns/slidingwindow/MaxConsecutiveSumBruteForce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticeProgram/src/patterns/slidingwindow/MaximumAverageSubArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticeProgram/src/patterns/slidingwindow/MaximumSubArraySumOptimized.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HelloWorld/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorld/src/Main.java" afterDir="false" />
     </list>
@@ -47,6 +38,10 @@
   "keyToString": {
     "Application.Driver.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.MaxConsecutiveSum.executor": "Run",
+    "Application.MaxConsecutiveSumBruteForce.executor": "Run",
+    "Application.MaximumAverageSubArray.executor": "Run",
+    "Application.MaximumSubArraySumOptimized.executor": "Run",
     "Application.MethodOverloading.executor": "Run",
     "Application.Test.executor": "Run",
     "Application.ThreeDArray.executor": "Run",
@@ -64,16 +59,56 @@
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/GeetArjun/Desktop/Java-Programming/Test 3-8 Abstraction/src/Main.java"
+    "onboarding.tips.debug.path": "C:/Users/GeetArjun/Desktop/Java-Programming/Test 3-8 Abstraction/src/Main.java",
+    "settings.editor.selected.configurable": "preferences.editor"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Driver">
+  <component name="RunManager" selected="Application.MaximumAverageSubArray">
     <configuration name="Driver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="fooddeliveryapp.Driver" />
       <module name="Test 3-8 Abstraction" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="fooddeliveryapp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaxConsecutiveSumBruteForce" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="patterns.slidingwindow.MaxConsecutiveSumBruteForce" />
+      <module name="PracticeProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="patterns.slidingwindow.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaximumAverageSubArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="patterns.slidingwindow.MaximumAverageSubArray" />
+      <module name="PracticeProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="patterns.slidingwindow.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaximumSubArraySumOptimized" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="patterns.slidingwindow.MaximumSubArraySumOptimized" />
+      <module name="PracticeProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="patterns.slidingwindow.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,52 +129,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.join.basicmainthread.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.join.basicmainthread.Main" />
-      <module name="MultiThreading" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.join.basicmainthread.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="com.join.sumcalculation.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.join.sumcalculation.Main" />
-      <module name="MultiThreading" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.join.sumcalculation.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="com.join.twothreaad.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.join.twothreaad.Main" />
-      <module name="MultiThreading" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.join.twothreaad.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MaximumAverageSubArray" />
+        <item itemvalue="Application.MaximumSubArraySumOptimized" />
+        <item itemvalue="Application.MaxConsecutiveSumBruteForce" />
         <item itemvalue="Application.Driver" />
         <item itemvalue="Application.bankingmanagementsystem.Main" />
-        <item itemvalue="Application.com.join.sumcalculation.Main" />
-        <item itemvalue="Application.com.join.twothreaad.Main" />
-        <item itemvalue="Application.com.join.basicmainthread.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -155,5 +151,20 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/PracticeProgram/src/patterns/slidingwindow/MaxConsecutiveSumBruteForce.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
