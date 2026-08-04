@@ -2,10 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b9b432f9-ce89-4c40-935d-4d404938c312" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/MultiThreading/src/executorframework/FixedThreadPool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MultiThreading/src/executorframework/SingleThreadExecutor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MultiThreading/src/executorframework/proper/MyTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MultiThreading/src/executorframework/proper/SingleThreadExecutor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticeProgram/src/com/array/RemoveDuplicate2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticeProgram/src/patterns/slidingwindow/FirstNegativeInEveryWindowBruteForce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticeProgram/src/patterns/slidingwindow/FirstNegativeInEveryWindowOptimize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test 4-8 Interface/Test 4-8 Interface.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test 4-8 Interface/src/digitalbankingapi/DigitalBank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test 4-8 Interface/src/digitalbankingapi/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test 4-8 Interface/src/digitalbankingapi/Insurance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test 4-8 Interface/src/digitalbankingapi/Loan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test 4-8 Interface/src/digitalbankingapi/Transfer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test 4-8 Interface/src/smarthomesystem/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test 4-8 Interface/src/smarthomesystem/InterNetConnected.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test 4-8 Interface/src/smarthomesystem/SmartTv.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test 4-8 Interface/src/smarthomesystem/Switchable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HelloWorld/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorld/src/Main.java" afterDir="false" />
     </list>
@@ -17,8 +27,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -40,6 +51,8 @@
   "keyToString": {
     "Application.ButterFly.executor": "Run",
     "Application.Driver.executor": "Run",
+    "Application.FirstNegativeInEveryWindowBruteForce.executor": "Run",
+    "Application.FirstNegativeInEveryWindowOptimize.executor": "Run",
     "Application.FixedThreadPool.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.MaxConsecutiveSum.executor": "Run",
@@ -47,6 +60,8 @@
     "Application.MaximumAverageSubArray.executor": "Run",
     "Application.MaximumSubArraySumOptimized.executor": "Run",
     "Application.MethodOverloading.executor": "Run",
+    "Application.RemoveDuplicate2.executor": "Run",
+    "Application.RemoveDuplicateFromSortedArray.executor": "Run",
     "Application.SingleThreadExecutor.executor": "Run",
     "Application.Test.executor": "Run",
     "Application.ThreeDArray.executor": "Run",
@@ -54,6 +69,7 @@
     "Application.com.join.basicmainthread.Main.executor": "Run",
     "Application.com.join.sumcalculation.Main.executor": "Run",
     "Application.com.join.twothreaad.Main.executor": "Run",
+    "Application.digitalbankingapi.Driver.executor": "Run",
     "Application.executorframework.proper.SingleThreadExecutor.executor": "Run",
     "Application.rethrow.Main.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
@@ -65,17 +81,17 @@
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/GeetArjun/Desktop/Java-Programming/Test 3-8 Abstraction/src/Main.java",
+    "onboarding.tips.debug.path": "C:/Users/GeetArjun/Desktop/Java-Programming/Test 4-8 Interface/src/Main.java",
     "settings.editor.selected.configurable": "preferences.editor"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ButterFly">
-    <configuration name="ButterFly" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.pattern.ButterFly" />
+  <component name="RunManager" selected="Application.FirstNegativeInEveryWindowOptimize">
+    <configuration name="FirstNegativeInEveryWindowBruteForce" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="patterns.slidingwindow.FirstNegativeInEveryWindowBruteForce" />
       <module name="PracticeProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.pattern.*" />
+          <option name="PATTERN" value="patterns.slidingwindow.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FixedThreadPool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="executorframework.FixedThreadPool" />
-      <module name="MultiThreading" />
+    <configuration name="FirstNegativeInEveryWindowOptimize" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="patterns.slidingwindow.FirstNegativeInEveryWindowOptimize" />
+      <module name="PracticeProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="executorframework.*" />
+          <option name="PATTERN" value="patterns.slidingwindow.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.threadlocal.Main" />
-      <module name="MultiThreading" />
+    <configuration name="RemoveDuplicate2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.array.RemoveDuplicate2" />
+      <module name="PracticeProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.threadlocal.*" />
+          <option name="PATTERN" value="com.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SingleThreadExecutor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="executorframework.SingleThreadExecutor" />
-      <module name="MultiThreading" />
+    <configuration name="RemoveDuplicateFromSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.array.RemoveDuplicateFromSortedArray" />
+      <module name="PracticeProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="executorframework.*" />
+          <option name="PATTERN" value="com.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,12 +138,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="executorframework.proper.SingleThreadExecutor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="executorframework.proper.SingleThreadExecutor" />
-      <module name="MultiThreading" />
+    <configuration name="digitalbankingapi.Driver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="digitalbankingapi.Driver" />
+      <module name="Test 4-8 Interface" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="executorframework.proper.*" />
+          <option name="PATTERN" value="digitalbankingapi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ButterFly" />
-        <item itemvalue="Application.executorframework.proper.SingleThreadExecutor" />
-        <item itemvalue="Application.FixedThreadPool" />
-        <item itemvalue="Application.SingleThreadExecutor" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.FirstNegativeInEveryWindowOptimize" />
+        <item itemvalue="Application.FirstNegativeInEveryWindowBruteForce" />
+        <item itemvalue="Application.RemoveDuplicate2" />
+        <item itemvalue="Application.RemoveDuplicateFromSortedArray" />
+        <item itemvalue="Application.digitalbankingapi.Driver" />
       </list>
     </recent_temporary>
   </component>
@@ -165,6 +181,11 @@
           <url>file://$PROJECT_DIR$/PracticeProgram/src/patterns/slidingwindow/MaxConsecutiveSumBruteForce.java</url>
           <line>5</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/PracticeProgram/src/patterns/slidingwindow/FirstNegativeInEveryWindowBruteForce.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
