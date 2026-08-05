@@ -2,22 +2,291 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b9b432f9-ce89-4c40-935d-4d404938c312" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/PracticeProgram/src/com/array/RemoveDuplicate2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PracticeProgram/src/patterns/slidingwindow/FirstNegativeInEveryWindowBruteForce.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PracticeProgram/src/patterns/slidingwindow/FirstNegativeInEveryWindowOptimize.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test 4-8 Interface/Test 4-8 Interface.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test 4-8 Interface/src/digitalbankingapi/DigitalBank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test 4-8 Interface/src/digitalbankingapi/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test 4-8 Interface/src/digitalbankingapi/Insurance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test 4-8 Interface/src/digitalbankingapi/Loan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test 4-8 Interface/src/digitalbankingapi/Transfer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test 4-8 Interface/src/smarthomesystem/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test 4-8 Interface/src/smarthomesystem/InterNetConnected.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test 4-8 Interface/src/smarthomesystem/SmartTv.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test 4-8 Interface/src/smarthomesystem/Switchable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collection/src/com/equalhashcodemethods/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collection/src/com/equalhashcodemethods/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test 5-8 OOPs/Test 5-8 OOPs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test 5-8 OOPs/src/bankingmanagementsystem/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test 5-8 OOPs/src/bankingmanagementsystem/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test 5-8 OOPs/src/bankingmanagementsystem/BankingService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test 5-8 OOPs/src/bankingmanagementsystem/CurrentAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test 5-8 OOPs/src/bankingmanagementsystem/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test 5-8 OOPs/src/bankingmanagementsystem/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test 5-8 OOPs/src/bankingmanagementsystem/InsufficientBalance1000.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test 5-8 OOPs/src/bankingmanagementsystem/InvalidAmountException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test 5-8 OOPs/src/bankingmanagementsystem/LoanAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test 5-8 OOPs/src/bankingmanagementsystem/Overdraft.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test 5-8 OOPs/src/bankingmanagementsystem/SavingAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test 5-8 OOPs/src/bankingmanagementsystem/WithdrawNotAllowed.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HelloWorld/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorld/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Abstraction/com/sujay/policy/HealthPolicy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Abstraction/com/sujay/policy/Policy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Abstraction/com/sujay/policy/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Abstraction/com/sujay/policy/VehiclePolicy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/EvenOddCount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/LargestElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/MaxElementOfArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/PeakElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/PrintAllElementsOfArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/RemoveDuplicate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/ReverseArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/SmallElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/SumOfAllElements.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/com/AshokIT/BinarySearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/com/AshokIT/LinearSearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/com/threeDarray/ThreeDArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/com/twodarray/Dynamic_Values.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/com/twodarray/Initialization_Declaration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/com/twodarray/Sum_Of_Elements.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Excception_Handling/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Excception_Handling/com/sujay/exception/InSufficientFundException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Excception_Handling/com/sujay/exception/InvalidAmountException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Excception_Handling/com/sujay/main/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Excception_Handling/com/sujay/service/AccountService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Excception_Handling/customexception/InvalidAge.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Excception_Handling/customexception/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Excception_Handling/customexception/Vote.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Excception_Handling/rethrow/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Excception_Handling/rethrow/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/Course.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/Mythread1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/Mythread2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/RegisterThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/Synchronized_Method.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/com/Interthreadcommunication/bankaccount/BankAccount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/com/Interthreadcommunication/bankaccount/Customer1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/com/Interthreadcommunication/bankaccount/Customer2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/com/Interthreadcommunication/bankaccount/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/com/Interthreadcommunication/practiceinterthread/Consumer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/com/Interthreadcommunication/practiceinterthread/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/com/Interthreadcommunication/practiceinterthread/Producer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/com/Interthreadcommunication/practiceinterthread/SharedData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/com/Interthreadcommunication/produceconsumerpractice/Consumer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/com/Interthreadcommunication/produceconsumerpractice/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/com/Interthreadcommunication/produceconsumerpractice/Producer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/com/Interthreadcommunication/produceconsumerpractice/SharedData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/com/Interthreadcommunication/producerconsumer/Buffer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/com/Interthreadcommunication/producerconsumer/Consumer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/com/Interthreadcommunication/producerconsumer/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/com/Interthreadcommunication/producerconsumer/Producer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/com/daemon/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/com/daemon/Mythread1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/com/daemon/Mythread2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/com/deadlock/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/com/deadlock/Thread1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/com/deadlock/Thread2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/com/deadlock/resourcelock/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/com/deadlock/resourcelock/MyThread2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/com/deadlock/resourcelock/Mythread1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/com/deadlock/resourcelock/ResourceA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/com/deadlock/resourcelock/ResourceB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/com/join/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/com/join/MyThread1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/com/join/Mythread2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/com/join/basicmainthread/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/com/join/basicmainthread/Mythread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/com/join/sumcalculation/CalculateThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/com/join/sumcalculation/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/com/join/twothreaad/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/com/join/twothreaad/ThreadA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/com/join/twothreaad/ThreadB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/com/onlineshopping/Customer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/com/onlineshopping/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/com/onlineshopping/Online_Shopping.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/com/onlineshopping/WareHouse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/com/sujay/bankaccount/BankAccount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/com/sujay/bankaccount/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/com/sujay/bankaccount/Thread1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/com/sujay/bankaccount/Thread2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/com/sujay/movieticketbooking/BookingThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/com/sujay/movieticketbooking/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/com/sujay/movieticketbooking/Movie_Ticket.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/com/sujay/railwayreservation/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/com/sujay/railwayreservation/Train.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/com/sujay/railwayreservation/TrainBookingThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/com/synchronizedblock/BankAccount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/com/synchronizedblock/CustomerThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/com/synchronizedblock/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/com/synchronizedblock/count/Count.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/com/synchronizedblock/count/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/com/synchronizedblock/count/Thread1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/com/synchronizedblock/count/Thread2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/com/synchronizedblock/printer/JavaThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/com/synchronizedblock/printer/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/com/synchronizedblock/printer/Printer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/com/synchronizedblock/printer/SpringThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/com/synchronizedmethod/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/com/synchronizedmethod/Table.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/com/synchronizedmethod/Thread1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/com/synchronizedmethod/Thread2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/com/synchronizedmethod/atmmachine/Atm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/com/synchronizedmethod/atmmachine/InsufficientBalance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/com/synchronizedmethod/atmmachine/InvalidAmount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/com/synchronizedmethod/atmmachine/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/com/synchronizedmethod/atmmachine/User1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/com/synchronizedmethod/atmmachine/User2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/com/threadlocal/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/com/threadlocal/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/com/threadlocal/MyThread1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/com/threadlocal/MyThread2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/com/threadlocal/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/com/threadlocal/Thread1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/com/threadlocal/Thread2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/executorframework/FixedThreadPool.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/executorframework/SingleThreadExecutor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/executorframework/proper/MyTask.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/executorframework/proper/SingleThreadExecutor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/in/bank.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MultiThreading/in/executorframework/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Polymorphism/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Polymorphism/AnimalService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Polymorphism/CardPayment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Polymorphism/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Polymorphism/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Polymorphism/MethodOverloading.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Polymorphism/OverloadingClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Polymorphism/Payment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Polymorphism/ProcessPayment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Polymorphism/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Polymorphism/UpiPayment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Polymorphism/com/MethodOverriding/CardPayment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Polymorphism/com/MethodOverriding/Payment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Polymorphism/com/MethodOverriding/PaymentService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Polymorphism/com/MethodOverriding/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Polymorphism/com/MethodOverriding/UpiPayment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Polymorphism/com/methodOverloading/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Polymorphism/com/methodOverloading/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Polymorphism/com/methodOverloading/UserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeProgram/ArmstrongNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeProgram/Average_Of_All_Elements.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeProgram/Count_Odd_Even_Numbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeProgram/Fibonacci.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeProgram/FibonacciSeries.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeProgram/Frequency_Of_Each_element.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeProgram/Largest_Odd_Number.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeProgram/Linear_Search.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeProgram/Max_Element.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeProgram/Min_Element.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeProgram/Most_Consecutive_Repeated_Number.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeProgram/OddPositionSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeProgram/PalindromeNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeProgram/PerfectNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeProgram/PrimeNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeProgram/Print_All_Elements.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeProgram/QuickSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeProgram/RemoveDuplicates.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeProgram/Second_Max_Element.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeProgram/SumOfDigitOfNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeProgram/Sum_Of_All_Elementss.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeProgram/com/array/ArrayPalindrome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeProgram/com/array/BinarySearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeProgram/com/array/DuplicateElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeProgram/com/array/KeepEvenNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeProgram/com/array/KeepPrimeNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeProgram/com/array/LinearSearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeProgram/com/array/LinearSearch2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeProgram/com/array/MajorityElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeProgram/com/array/MaxConsecutiveNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeProgram/com/array/MaxConsecutiveOnes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeProgram/com/array/MostConsecutiveRepeatedNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeProgram/com/array/MoveAllZeroesToEnd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeProgram/com/array/MoveNegativeNumberToLeft.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeProgram/com/array/MoveZeroes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeProgram/com/array/MovesAllZeroesToBeginnig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeProgram/com/array/ProductOfArrayExceptItSelf.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeProgram/com/array/RemoveDuplicate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeProgram/com/array/RemoveDuplicate2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeProgram/com/array/RemoveDuplicateFromSortedArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeProgram/com/array/RemoveElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeProgram/com/array/ReverseArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeProgram/com/array/ReverseArrayClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeProgram/com/array/RotateArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeProgram/com/array/SecondMaxElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeProgram/com/array/SecondMaxElementMethod2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeProgram/com/array/SumOfElements.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeProgram/com/array/TwoSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeProgram/com/array/twoDarray/MultiplicationNestedForLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeProgram/com/arrayClassProblem/arraystatastic/ArrayOperations.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeProgram/com/arrayClassProblem/employeesalary/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeProgram/com/arrayClassProblem/onlineshopping/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeProgram/com/arrayClassProblem/onlineshopping/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeProgram/com/arrayClassProblem/stringnanalyzer/StringOperations.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeProgram/com/arrayClassProblem/studentperformancesystem/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeProgram/com/arrayClassProblem/studentperformancesystem/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeProgram/com/inheritance/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeProgram/com/inheritance/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeProgram/com/inheritance/SportCar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeProgram/com/inheritance/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeProgram/com/pattern/ButterFly.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeProgram/com/pattern/Diamond.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeProgram/com/pattern/Fibonacci_Pattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeProgram/com/pattern/FloydTraingle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeProgram/com/pattern/FullPyramid.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeProgram/com/pattern/FullPyramidNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeProgram/com/pattern/HollowSquare.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeProgram/com/pattern/HollowTraingle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeProgram/com/pattern/Hollow_Diamond.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeProgram/com/pattern/Hollow_Inverted_Pyramid.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeProgram/com/pattern/Hollow_Pyramid.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeProgram/com/pattern/IncreaseNumberLeftTraingle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeProgram/com/pattern/IncreasingNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeProgram/com/pattern/InvertedFullPyramid.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeProgram/com/pattern/InvertedIncreasingNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeProgram/com/pattern/InvertedLeftHalfPyramid.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeProgram/com/pattern/InvertedRightHalfPyramidAlphabet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeProgram/com/pattern/InvertedRighthalfPyramid.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeProgram/com/pattern/LeftHalfPyramid.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeProgram/com/pattern/Plus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeProgram/com/pattern/RighthalfPyramid.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeProgram/com/pattern/SandGlass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeProgram/com/pattern/Square.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeProgram/com/pattern/Xpattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeProgram/com/sorting/BubbleSort/Problem1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeProgram/com/string/Check_Palinndrome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeProgram/com/string/Palindrome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeProgram/com/string/ReverseEachWord.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeProgram/com/string/ReverseOwels.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeProgram/com/string/ReverseString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeProgram/com/string/ReverseWordsInSentence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeProgram/com/string/Reverse_Only_Ovels.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeProgram/com/string/Reverse_String.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeProgram/com/sujay/practice/Maximum_Product_Of_Consecutive_Triplet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeProgram/com/sujay/practice/ReverseArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeProgram/com/sujay/practice/SecondMax.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeProgram/com/sujay/practice/ThirdLargeElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeProgram/patterns/slidingwindow/FirstNegativeInEveryWindowBruteForce.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeProgram/patterns/slidingwindow/FirstNegativeInEveryWindowOptimize.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeProgram/patterns/slidingwindow/MaxConsecutiveSumBruteForce.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeProgram/patterns/slidingwindow/MaximumAverageSubArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeProgram/patterns/slidingwindow/MaximumSubArraySumOptimized.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RelationShip/strongassociation/House.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RelationShip/strongassociation/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RelationShip/strongassociation/Room.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RelationShip/weakassociation/Library.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RelationShip/weakassociation/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RelationShip/weakassociation/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test 3-8 Abstraction/bankingmanagementsystem/Bank.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test 3-8 Abstraction/bankingmanagementsystem/HDFC.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test 3-8 Abstraction/bankingmanagementsystem/ICICI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test 3-8 Abstraction/bankingmanagementsystem/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test 3-8 Abstraction/bankingmanagementsystem/SBI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test 3-8 Abstraction/fooddeliveryapp/DessertOrder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test 3-8 Abstraction/fooddeliveryapp/Driver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test 3-8 Abstraction/fooddeliveryapp/NonVegOrder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test 3-8 Abstraction/fooddeliveryapp/Order.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test 3-8 Abstraction/fooddeliveryapp/VegOrder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test 4-8 Interface/digitalbankingapi/DigitalBank.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test 4-8 Interface/digitalbankingapi/Driver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test 4-8 Interface/digitalbankingapi/Insurance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test 4-8 Interface/digitalbankingapi/Loan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test 4-8 Interface/digitalbankingapi/Transfer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test 4-8 Interface/smarthomesystem/Driver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test 4-8 Interface/smarthomesystem/InterNetConnected.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test 4-8 Interface/smarthomesystem/SmartTv.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test 4-8 Interface/smarthomesystem/Switchable.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,45 +316,63 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.ButterFly.executor": "Run",
-    "Application.Driver.executor": "Run",
-    "Application.FirstNegativeInEveryWindowBruteForce.executor": "Run",
-    "Application.FirstNegativeInEveryWindowOptimize.executor": "Run",
-    "Application.FixedThreadPool.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.MaxConsecutiveSum.executor": "Run",
-    "Application.MaxConsecutiveSumBruteForce.executor": "Run",
-    "Application.MaximumAverageSubArray.executor": "Run",
-    "Application.MaximumSubArraySumOptimized.executor": "Run",
-    "Application.MethodOverloading.executor": "Run",
-    "Application.RemoveDuplicate2.executor": "Run",
-    "Application.RemoveDuplicateFromSortedArray.executor": "Run",
-    "Application.SingleThreadExecutor.executor": "Run",
-    "Application.Test.executor": "Run",
-    "Application.ThreeDArray.executor": "Run",
-    "Application.bankingmanagementsystem.Main.executor": "Run",
-    "Application.com.join.basicmainthread.Main.executor": "Run",
-    "Application.com.join.sumcalculation.Main.executor": "Run",
-    "Application.com.join.twothreaad.Main.executor": "Run",
-    "Application.digitalbankingapi.Driver.executor": "Run",
-    "Application.executorframework.proper.SingleThreadExecutor.executor": "Run",
-    "Application.rethrow.Main.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/GeetArjun/Desktop/Java-Programming/Test 4-8 Interface/src/Main.java",
-    "settings.editor.selected.configurable": "preferences.editor"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ButterFly.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Driver.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FirstNegativeInEveryWindowBruteForce.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FirstNegativeInEveryWindowOptimize.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FixedThreadPool.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaxConsecutiveSum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaxConsecutiveSumBruteForce.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaximumAverageSubArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaximumSubArraySumOptimized.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MethodOverloading.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RemoveDuplicate2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RemoveDuplicateFromSortedArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SingleThreadExecutor.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ThreeDArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.bankingmanagementsystem.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.join.basicmainthread.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.join.sumcalculation.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.join.twothreaad.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.digitalbankingapi.Driver.executor&quot;: &quot;Run&quot;,
+    &quot;Application.executorframework.proper.SingleThreadExecutor.executor&quot;: &quot;Run&quot;,
+    &quot;Application.rethrow.Main.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/GeetArjun/Desktop/Java-Programming/Test 4-8 Interface/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.FirstNegativeInEveryWindowOptimize">
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.equalhashcodemethods" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Driver">
+    <configuration name="Driver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bankingmanagementsystem.Driver" />
+      <module name="Test 5-8 OOPs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bankingmanagementsystem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FirstNegativeInEveryWindowBruteForce" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="patterns.slidingwindow.FirstNegativeInEveryWindowBruteForce" />
       <module name="PracticeProgram" />
@@ -112,6 +399,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.equalhashcodemethods.Main" />
+      <module name="Collection" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.equalhashcodemethods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="RemoveDuplicate2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.array.RemoveDuplicate2" />
       <module name="PracticeProgram" />
@@ -125,39 +425,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveDuplicateFromSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.array.RemoveDuplicateFromSortedArray" />
-      <module name="PracticeProgram" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="digitalbankingapi.Driver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="digitalbankingapi.Driver" />
-      <module name="Test 4-8 Interface" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="digitalbankingapi.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Driver" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.FirstNegativeInEveryWindowOptimize" />
         <item itemvalue="Application.FirstNegativeInEveryWindowBruteForce" />
         <item itemvalue="Application.RemoveDuplicate2" />
-        <item itemvalue="Application.RemoveDuplicateFromSortedArray" />
-        <item itemvalue="Application.digitalbankingapi.Driver" />
       </list>
     </recent_temporary>
   </component>
