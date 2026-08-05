@@ -2,23 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b9b432f9-ce89-4c40-935d-4d404938c312" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Collection/src/com/hashset/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collection/src/com/hashset/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HelloWorld/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorld/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test 5-8 OOPs/src/bankingmanagementsystem/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test 5-8 OOPs/src/bankingmanagementsystem/Account.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test 5-8 OOPs/src/bankingmanagementsystem/CurrentAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test 5-8 OOPs/src/bankingmanagementsystem/CurrentAccount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test 5-8 OOPs/src/bankingmanagementsystem/SavingAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test 5-8 OOPs/src/bankingmanagementsystem/SavingAccount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test 5-8 OOPs/bankingmanagementsystem/Account.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test 5-8 OOPs/bankingmanagementsystem/Bank.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test 5-8 OOPs/bankingmanagementsystem/BankingService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test 5-8 OOPs/bankingmanagementsystem/CurrentAccount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test 5-8 OOPs/bankingmanagementsystem/Customer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test 5-8 OOPs/bankingmanagementsystem/Driver.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test 5-8 OOPs/bankingmanagementsystem/InsufficientBalance1000.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test 5-8 OOPs/bankingmanagementsystem/InvalidAmountException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test 5-8 OOPs/bankingmanagementsystem/LoanAccount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test 5-8 OOPs/bankingmanagementsystem/Overdraft.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test 5-8 OOPs/bankingmanagementsystem/SavingAccount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test 5-8 OOPs/bankingmanagementsystem/WithdrawNotAllowed.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test 5-8 OOPs/bankingmanagementsystem/Account.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test 5-8 OOPs/bankingmanagementsystem/Account.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test 5-8 OOPs/bankingmanagementsystem/CurrentAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test 5-8 OOPs/bankingmanagementsystem/CurrentAccount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test 5-8 OOPs/bankingmanagementsystem/SavingAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test 5-8 OOPs/bankingmanagementsystem/SavingAccount.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,10 +78,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.hashset" />
       <recent name="com.equalhashcodemethods" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Driver">
+  <component name="RunManager" selected="Application.com.hashset.Main">
     <configuration name="Driver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="bankingmanagementsystem.Driver" />
       <module name="Test 5-8 OOPs" />
@@ -144,12 +135,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveDuplicate2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.array.RemoveDuplicate2" />
-      <module name="PracticeProgram" />
+    <configuration name="com.hashset.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hashset.Main" />
+      <module name="Collection" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.array.*" />
+          <option name="PATTERN" value="com.hashset.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -159,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.com.hashset.Main" />
         <item itemvalue="Application.Driver" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.FirstNegativeInEveryWindowOptimize" />
         <item itemvalue="Application.FirstNegativeInEveryWindowBruteForce" />
-        <item itemvalue="Application.RemoveDuplicate2" />
       </list>
     </recent_temporary>
   </component>
