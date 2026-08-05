@@ -31,7 +31,7 @@ public class SavingAccount extends Account {
         System.out.println("Amount withdraw Successful... "+amount);
         if(balanceAfterWithdraw<1000)
         {
-            throw new InsufficientBalance1000("Balance is less than 1000");
+            throw new InsufficientBalance1000("Minimum Balance is less than 1000");
         }
         setBalance(balanceAfterWithdraw);
     }

@@ -42,6 +42,16 @@ public abstract class Account {
         this.balance = balance;
     }
 
+
+    @Override
+    public String toString() {
+        return "Account{" +
+                "accountNumber=" + accountNumber +
+                ", accountHolderName='" + accountHolderName + '\'' +
+                ", balance=" + balance +
+                '}';
+    }
+
     public abstract void deposit(double amount);
     public abstract void withdraw(double amount);
     public abstract void calculateInterest();

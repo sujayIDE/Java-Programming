@@ -18,19 +18,16 @@ public class CurrentAccount extends Account{
 
     @Override
     public void withdraw(double amount) {
-        double remaining = getBalance() - amount;
-
-        if(remaining < -10000)
-        {
-            throw new Overdraft("Overdraft limit exceeded.");
+        if((getBalance() + 10000) <= amount){
+            double remaining = (getBalance() + 10000 ) - amount;
+            setBalance(remaining);
+        }else{
+            throw new InsufficientBalance1000("Insufficinet funds... over draft also exceeded ");
         }
-
-        setBalance(remaining);
     }
 
     @Override
     public void calculateInterest() {
-        double interest=(getBalance()*1*8.5)/100;
-        System.out.println("Current Account Interest : "+interest);
+        System.out.println("Current Account has no interest..");
     }
 }
