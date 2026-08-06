@@ -11,5 +11,13 @@ public class Review {
         this.comment = comment;
     }
 
+    void addReview()
+    {
 
+    }
+
+    void displayReview()
+    {
+
+    }
 }

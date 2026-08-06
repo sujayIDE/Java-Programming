@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="275d3e19-3278-4649-ae2d-54aca967a126" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/PracticeProgram/src/com/array/MissingElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticeProgram/src/com/array/ProductOfArrayExceptItself2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticeProgram/src/com/string/FirstNonRepeatingCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticeProgram/src/com/string/FrequencyOfCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticeProgram/src/com/string/LongestCommonPrefix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticeProgram/src/com/string/ReverseWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticeProgram/src/com/string/ValidParenthesis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticeProgram/src/patterns/slidingwindow/CountOccuranceOfAnagramBruteForce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test 6-8 OOPs/src/Amazon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test 6-8 OOPs/src/Collections.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test 6-8 OOPs/src/CouponApplicable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test 6-8 OOPs/src/Returnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test 6-8 OOPs/src/Searchable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorld/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorld/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java-Programming.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java-Programming.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test 6-8 OOPs/Test 6-8 OOPs.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Test 6-8 OOPs/Test 6-8 OOPs E-Commerce.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test 6-8 OOPs/src/Review.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test 6-8 OOPs/src/Review.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SingleThreadExecutor.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5,
+  "fromUser": true
+}]]></component>
+  <component name="ProjectId" id="3HXNMpLmwg2GvN4WWNuTho62rje" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.CountOccuranceOfAnagramBruteForce.executor": "Run",
+    "Application.FirstNonRepeatingCharacter.executor": "Debug",
+    "Application.FrequencyOfCharacter.executor": "Run",
+    "Application.LongestCommonPrefix.executor": "Run",
+    "Application.MissingElement.executor": "Run",
+    "Application.MissingNumber.executor": "Run",
+    "Application.ProductOfArrayExceptItself2.executor": "Run",
+    "Application.ReverseWord.executor": "Run",
+    "Application.ValidParenthesis.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/GeetArjun/Desktop/Java-Programming/Test 6-8 OOPs/src"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\GeetArjun\Desktop\Java-Programming\Test 6-8 OOPs\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.CountOccuranceOfAnagramBruteForce">
+    <configuration name="CountOccuranceOfAnagramBruteForce" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="patterns.slidingwindow.CountOccuranceOfAnagramBruteForce" />
+      <module name="PracticeProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="patterns.slidingwindow.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LongestCommonPrefix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.string.LongestCommonPrefix" />
+      <module name="PracticeProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductOfArrayExceptItself2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.array.ProductOfArrayExceptItself2" />
+      <module name="PracticeProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.string.ReverseWord" />
+      <module name="PracticeProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValidParenthesis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.string.ValidParenthesis" />
+      <module name="PracticeProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Java-Programming" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Java-Programming" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CountOccuranceOfAnagramBruteForce" />
+        <item itemvalue="Application.ProductOfArrayExceptItself2" />
+        <item itemvalue="Application.ValidParenthesis" />
+        <item itemvalue="Application.LongestCommonPrefix" />
+        <item itemvalue="Application.ReverseWord" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="275d3e19-3278-4649-ae2d-54aca967a126" name="Changes" comment="" />
+      <created>1786010408154</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1786010408154</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/PracticeProgram/src/com/string/FirstNonRepeatingCharacter.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
