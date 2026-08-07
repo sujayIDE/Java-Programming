@@ -4,14 +4,16 @@ public abstract class Order {
     private Product product;
     private int quantity;
     private double totalAmount;
+    private double discount;
     private String orderStatus;
 
-    public Order(int orderId, Customer customer, Product product, int quantity, double totalAmount, String orderStatus) {
+    public Order(int orderId, Customer customer, Product product, int quantity, double totalAmount,double discount, String orderStatus) {
         this.orderId = orderId;
         this.customer = customer;
         this.product = product;
         this.quantity = quantity;
         this.totalAmount = totalAmount;
+        this.discount=discount;
         this.orderStatus = orderStatus;
     }
 
@@ -63,6 +65,14 @@ public abstract class Order {
         this.orderStatus = orderStatus;
     }
 
+    public double getDiscount() {
+        return discount;
+    }
+
+    public void setDiscount(double discount) {
+        this.discount = discount;
+    }
+
     @Override
     public String toString() {
         return "Order{" +
@@ -71,13 +81,14 @@ public abstract class Order {
                 ", product=" + product +
                 ", quantity=" + quantity +
                 ", totalAmount=" + totalAmount +
+                ", discount=" + discount +
                 ", orderStatus='" + orderStatus + '\'' +
                 '}';
     }
 
     void displayOrderDetails()
     {
-        toString();
+        System.out.println(toString());
     }
 
     public abstract void  placeOrder();

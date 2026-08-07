@@ -1,4 +1,8 @@
-package PACKAGE_NAME;
+public class PaymentFailedException extends RuntimeException{
+    public PaymentFailedException() {
+    }
 
-public class PaymentFailedException {
+    public PaymentFailedException(String message) {
+        super(message);
+    }
 }

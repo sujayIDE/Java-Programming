@@ -1,4 +1,8 @@
-package PACKAGE_NAME;
+public class ReturnNotAllowedException extends RuntimeException {
+    public ReturnNotAllowedException() {
+    }
 
-public class ReturnNotAllowedException {
+    public ReturnNotAllowedException(String message) {
+        super(message);
+    }
 }

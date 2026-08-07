@@ -1,4 +1,8 @@
-package PACKAGE_NAME;
+public class OutOfStockException extends RuntimeException{
+    public OutOfStockException() {
+    }
 
-public class OutOfStockException {
+    public OutOfStockException(String message) {
+        super(message);
+    }
 }

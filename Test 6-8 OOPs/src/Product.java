@@ -99,6 +99,7 @@ public class Product {
 
     void displayProduct()
     {
-        toString();
+        System.out.println(toString());
     }
+
 }

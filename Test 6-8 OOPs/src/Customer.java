@@ -65,6 +65,6 @@ public class Customer {
     }
 
     void displayCustomer(){
-        toString();
+        System.out.println(toString());
     }
 }

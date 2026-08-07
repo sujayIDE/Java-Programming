@@ -23,6 +23,6 @@ public class Seller {
 
     void displaySeller()
     {
-        toString();
+        System.out.println(toString());
     }
 }

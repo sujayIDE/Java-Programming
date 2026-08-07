@@ -1,4 +1,9 @@
-package PACKAGE_NAME;
+public class ProductNotFoundException extends RuntimeException{
 
-public class ProductNotFoundException {
+    public ProductNotFoundException() {
+    }
+
+    public ProductNotFoundException(String message) {
+        super(message);
+    }
 }

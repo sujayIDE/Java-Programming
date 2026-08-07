@@ -1,8 +1,8 @@
-import java.util.ArrayList;
-import java.util.Arrays;
+import java.util.*;
 
 public class Collections {
     public static void main(String[] args) {
+        Scanner sc=new Scanner(System.in);
         ArrayList<Product> products=new ArrayList<>();
         products.add(new Product(101,"Keyboard","Electronics","Circle",2000.0,20,1,5));
         products.add(new Product(201, "Smart Watch", "Accessories", "Circle", 4500.0, 25, 4, 10));
@@ -27,11 +27,11 @@ public class Collections {
         sellers.add(new Seller(5, "Anjali", "Samsung", 4));
 
         ArrayList<Order> orderArrayList=new ArrayList<>();
-        orderArrayList.add(new OnlineOrder(1001, customers.get(0), products.get(0), 2, 4000.0, "Placed", "Pune"));
-        orderArrayList.add(new OnlineOrder(1002, customers.get(1), products.get(1), 1, 55000.0, "Shipped", "Mumbai"));
-        orderArrayList.add(new OnlineOrder(1003, customers.get(2), products.get(2), 1, 4500.0, "Delivered", "Bangalore"));
-        orderArrayList.add(new OnlineOrder(1004, customers.get(3), products.get(3), 2, 6000.0, "Out For Delivery", "Ahmedabad"));
-        orderArrayList.add(new OnlineOrder(1005, customers.get(4), products.get(4), 1, 2500.0, "Packed", "Jaipur"));
+        orderArrayList.add(new OnlineOrder(1001, customers.get(0), products.get(0), 2, 4000.0, 0.0, "Packed", "Pune"));
+        orderArrayList.add(new OnlineOrder(1002, customers.get(1), products.get(1), 1, 4500.0, 0.0, "Shipped", "Mumbai"));
+        orderArrayList.add(new OnlineOrder(1003, customers.get(2), products.get(2), 1, 12000.0, 0.0, "Delivered", "Bangalore"));
+        orderArrayList.add(new OnlineOrder(1004, customers.get(3), products.get(3), 2, 7000.0, 0.0, "Out For Delivery", "Ahmedabad"));
+        orderArrayList.add(new OnlineOrder(1005, customers.get(4), products.get(4), 1, 1800.0, 0.0, "Packed", "Jaipur"));
 
         ArrayList<Review> reviews=new ArrayList<>();
         reviews.add(new Review(1, customers.get(0), 5, "Excellent Product"));
@@ -39,6 +39,28 @@ public class Collections {
         reviews.add(new Review(3, customers.get(2), 5, "Very Happy with Purchase"));
         reviews.add(new Review(4, customers.get(3), 3, "Average Product"));
         reviews.add(new Review(5, customers.get(4), 4, "Worth the Money"));
+
+        HashMap<Integer, Product>  productMap = new HashMap<>();
+        productMap.put(101, products.get(0));
+        productMap.put(201, products.get(1));
+        productMap.put(202, products.get(2));
+        productMap.put(203, products.get(3));
+        productMap.put(204, products.get(4));
+        productMap.put(205, products.get(5));
+
+        HashMap<Integer,Customer> customerHashMap=new HashMap<>();
+        customerHashMap.put(1,customers.get(0));
+        customerHashMap.put(2,customers.get(1));
+        customerHashMap.put(3,customers.get(2));
+        customerHashMap.put(4,customers.get(3));
+        customerHashMap.put(5,customers.get(4));
+
+        HashMap<Integer, Seller> selleHashMap = new HashMap<>();
+        selleHashMap.put(1, sellers.get(0));
+        selleHashMap.put(2, sellers.get(1));
+        selleHashMap.put(3, sellers.get(2));
+        selleHashMap.put(4, sellers.get(3));
+        selleHashMap.put(5, sellers.get(4));
 
 
     }

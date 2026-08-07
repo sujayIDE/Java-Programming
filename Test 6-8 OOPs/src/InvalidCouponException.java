@@ -1,4 +1,8 @@
-package PACKAGE_NAME;
+public class InvalidCouponException extends RuntimeException{
+    public InvalidCouponException() {
+    }
 
-public class InvalidCouponException {
+    public InvalidCouponException(String message) {
+        super(message);
+    }
 }
