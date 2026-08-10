@@ -45,13 +45,6 @@ public class Collections {
         orderArrayList.add(new OnlineOrder(1004, customers.get(3), products.get(3), 2, 7000.0, 0.0, "Out For entity.Delivery", "Ahmedabad"));
         orderArrayList.add(new OnlineOrder(1005, customers.get(4), products.get(4), 1, 1800.0, 0.0, "Packed", "Jaipur"));
 
-        ArrayList<Review> reviews=new ArrayList<>();
-        reviews.add(new Review(1, customers.get(0), 5, "Excellent entity.Product"));
-        reviews.add(new Review(2, customers.get(1), 4, "Good Quality entity.Product"));
-        reviews.add(new Review(3, customers.get(2), 5, "Very Happy with Purchase"));
-        reviews.add(new Review(4, customers.get(3), 3, "Average entity.Product"));
-        reviews.add(new Review(5, customers.get(4), 4, "Worth the Money"));
-
         HashMap<Integer, Product>  productMap = new HashMap<>();
         productMap.put(101, products.get(0));
         productMap.put(201, products.get(1));

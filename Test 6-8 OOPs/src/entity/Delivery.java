@@ -4,15 +4,15 @@ import order.Order;
 
 public class Delivery {
     private int deliveryId;
-    private Order order;
+    private Integer orderId;
     private String deliveryPartner;
     private int exceptedDate;
     private String currentLocation;
     private String status;
 
-    public Delivery(int deliveryId, Order order, String deliveryPartner, int exceptedDate, String currentLocation, String status) {
+    public Delivery(int deliveryId, Integer order, String deliveryPartner, int exceptedDate, String currentLocation, String status) {
         this.deliveryId = deliveryId;
-        this.order = order;
+        this.orderId = order;
         this.deliveryPartner = deliveryPartner;
         this.exceptedDate = exceptedDate;
         this.currentLocation = currentLocation;
@@ -27,12 +27,12 @@ public class Delivery {
         this.deliveryId = deliveryId;
     }
 
-    public Order getOrder() {
-        return order;
+    public Integer getOrderId() {
+        return orderId;
     }
 
-    public void setOrder(Order order) {
-        this.order = order;
+    public void setOrderId(Integer orderId) {
+        this.orderId = orderId;
     }
 
     public String getDeliveryPartner() {
@@ -67,12 +67,12 @@ public class Delivery {
         this.status = status;
     }
 
-    void trackOrder(String status) {
+    public void trackOrder(String status) {
         System.out.println("Status : " + status);
         System.out.println("Location : " + currentLocation);
     }
 
-    void updateStatus() {
+    public void updateStatus() {
         switch (status) {
             case "Packed" -> {
                 status = "Packed";

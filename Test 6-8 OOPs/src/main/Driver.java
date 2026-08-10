@@ -1,7 +1,9 @@
 package main;
 
 import entity.Customer;
+import entity.Delivery;
 import entity.Product;
+import entity.Review;
 import interfacepack.Amazon;
 import order.OnlineOrder;
 import order.Order;
@@ -102,6 +104,20 @@ public class Driver {
         System.out.println("Discount       : "+order.getDiscount());
         System.out.println("Total Amount   : "+order.getTotalAmount());
 
+        System.out.println();
+        System.out.println("========DELIVERY TRACKING=========");
+        Delivery delivery =new Delivery(110110,order.getOrderId(),"E-Kart",810,"Ameerpet","Shipped");
+        delivery.trackOrder(delivery.getStatus());
+        delivery.updateStatus();
+
+        System.out.println();
+        System.out.println("==================================================");
+        Review review=new Review(20101,customerHashMap.get(1));
+        review.addReview();
+        review.displayReview();
+
+        System.out.println();
+        System.out.println("===================================================");
 
     }
 }

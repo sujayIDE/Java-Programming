@@ -4,7 +4,7 @@ import entity.Customer;
 import entity.Product;
 
 public abstract class Order {
-    private int orderId;
+    private Integer orderId;
     private Customer customer;
     private Product product;
     private int quantity;
