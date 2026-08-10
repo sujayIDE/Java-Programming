@@ -1,4 +1,4 @@
-package patterns.slidingwindow;
+package com.slidingwindow;
 
 public class MaximumSubArraySumOptimized {
     static int maxSum(int []arr,int k){

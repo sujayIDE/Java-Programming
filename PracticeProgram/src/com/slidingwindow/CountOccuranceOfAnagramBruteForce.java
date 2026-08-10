@@ -1,4 +1,4 @@
-package patterns.slidingwindow;
+package com.slidingwindow;
 
 public class CountOccuranceOfAnagramBruteForce {
     static void countOccuranceOfAnagram(String str,String ptr)

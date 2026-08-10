@@ -1,4 +1,4 @@
-package patterns.slidingwindow;
+package com.slidingwindow;
 
 public class MaximumAverageSubArray {
     static double maxAverage(int arr[],int k){

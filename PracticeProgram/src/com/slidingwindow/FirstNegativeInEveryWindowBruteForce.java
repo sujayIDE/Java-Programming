@@ -1,4 +1,4 @@
-package patterns.slidingwindow;
+package com.slidingwindow;
 
 public class FirstNegativeInEveryWindowBruteForce {
     static void firstNegative(int[]arr,int k)

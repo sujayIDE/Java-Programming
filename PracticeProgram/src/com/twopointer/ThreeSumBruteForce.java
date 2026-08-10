@@ -1,4 +1,4 @@
-package twopointer;
+package com.twopointer;
 
 public class ThreeSumBruteForce {
     static void threeSum(int []arr,int target)

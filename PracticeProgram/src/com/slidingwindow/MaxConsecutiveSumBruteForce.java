@@ -1,4 +1,4 @@
-package patterns.slidingwindow;
+package com.slidingwindow;
 
 public class MaxConsecutiveSumBruteForce {
     static void maxConsecutiveSum(int []arr,int k)
