@@ -1,4 +1,4 @@
-package com;
+package com.treeset;
 
 import java.util.TreeSet;
 
