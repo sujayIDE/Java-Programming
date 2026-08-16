@@ -2,12 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="275d3e19-3278-4649-ae2d-54aca967a126" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Generics/src/wildCard/LoweBoundWildCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generics/src/wildCard/UnboundedWildCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generics/src/wildCard/UpperBoundWildCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MultiThreading/src/com/join/printnumber/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MultiThreading/src/com/join/printnumber/Thread1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MultiThreading/src/com/join/printnumber/Thread2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HelloWorld/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorld/src/Main.java" afterDir="false" />
     </list>
@@ -86,14 +80,7 @@
       <recent name="C:\Users\GeetArjun\Desktop\Java-Programming\Test 6-8 OOPs\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Before_Generics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Before_Generics" />
-      <module name="Generics" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.com.threadlocal.demo.Main">
     <configuration name="LoweBoundWildCard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="wildCard.LoweBoundWildCard" />
       <module name="Generics" />
@@ -146,6 +133,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="com.threadlocal.demo.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.threadlocal.demo.Main" />
+      <module name="MultiThreading" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.threadlocal.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <module name="Java-Programming" />
       <method v="2">
@@ -159,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.com.threadlocal.demo.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.LoweBoundWildCard" />
         <item itemvalue="Application.UpperBoundWildCard" />
         <item itemvalue="Application.UnboundedWildCard" />
-        <item itemvalue="Application.Before_Generics" />
       </list>
     </recent_temporary>
   </component>
