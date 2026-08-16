@@ -2,25 +2,47 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="275d3e19-3278-4649-ae2d-54aca967a126" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/PracticeProgram/src/com/array/MissingElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PracticeProgram/src/com/array/ProductOfArrayExceptItself2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PracticeProgram/src/com/string/FirstNonRepeatingCharacter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PracticeProgram/src/com/string/FrequencyOfCharacter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PracticeProgram/src/com/string/LongestCommonPrefix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PracticeProgram/src/com/string/ReverseWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PracticeProgram/src/com/string/ValidParenthesis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PracticeProgram/src/patterns/slidingwindow/CountOccuranceOfAnagramBruteForce.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test 6-8 OOPs/src/Amazon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test 6-8 OOPs/src/Collections.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test 6-8 OOPs/src/CouponApplicable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test 6-8 OOPs/src/Returnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test 6-8 OOPs/src/Searchable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collection/src/com/fail_fast/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collection/src/com/fail_fast/Thread1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collection/src/com/fail_fast/Thread2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collection/src/com/fail_safe/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collection/src/com/fail_safe/Thread1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collection/src/com/fail_safe/Thread2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance/src/mcq/employeemanager/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance/src/mcq/employeemanager/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java 8/Java 8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java 8/src/defaultstaticmethodsinterface/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java 8/src/defaultstaticmethodsinterface/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java 8/src/defaultstaticmethodsinterface/vehicle/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java 8/src/defaultstaticmethodsinterface/vehicle/SportCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java 8/src/defaultstaticmethodsinterface/vehicle/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java 8/src/lambda/MyInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java 8/src/lambda/evenNumber/CheckEvenNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java 8/src/lambda/thread/ThreadMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java 8/src/lambda/thread/synchronization/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticeProgram/src/com/twopointer/string/LongestPalindromicSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticeProgram/src/com/twopointer/string/PalindromicCountOfSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticeProgram/src/com/twopointer/string/ReverseString344.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Static/src/staticmethod/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Static/src/staticmethod/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collection/src/com/map/MapDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Collection/src/com/map/MapDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Encapsulation/src/com/smartelectricitymeter/ElectricityMeter.java" beforeDir="false" afterPath="$PROJECT_DIR$/Encapsulation/src/com/smartelectricitymeter/ElectricityMeter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HelloWorld/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorld/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java-Programming.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java-Programming.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test 6-8 OOPs/Test 6-8 OOPs.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Test 6-8 OOPs/Test 6-8 OOPs E-Commerce.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test 6-8 OOPs/src/Review.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test 6-8 OOPs/src/Review.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Employee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SingleThreadExecutor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test 11-8 Arrray/src/BitFlips.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test 11-8 Arrray/src/BitFlips.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test 11-8 Arrray/src/MinimizeMaximumSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test 11-8 Arrray/src/MinimizeMaximumSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test 12-8 Advance Atm Machine/src/atmmachine/Atm.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test 12-8 Advance Atm Machine/src/atmmachine/Atm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test 12-8 Advance Atm Machine/src/atmmachine/InsufficientBalance.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test 12-8 Advance Atm Machine/src/atmmachine/InsufficientBalance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test 12-8 Advance Atm Machine/src/atmmachine/InvalidAmount.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test 12-8 Advance Atm Machine/src/atmmachine/InvalidAmount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test 12-8 Advance Atm Machine/src/atmmachine/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test 12-8 Advance Atm Machine/src/atmmachine/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test 12-8 Advance Atm Machine/src/atmmachine/MinimumBalance.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test 12-8 Advance Atm Machine/src/atmmachine/MinimumBalance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeProgram/patterns/slidingwindow/CountOccuranceOfAnagramBruteForce.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeProgram/patterns/slidingwindow/FirstNegativeInEveryWindowBruteForce.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeProgram/patterns/slidingwindow/FirstNegativeInEveryWindowOptimize.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeProgram/patterns/slidingwindow/MaxConsecutiveSumBruteForce.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeProgram/patterns/slidingwindow/MaximumAverageSubArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticeProgram/patterns/slidingwindow/MaximumSubArraySumOptimized.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,10 +60,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5,
-  "fromUser": true
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5,
+  &quot;fromUser&quot;: true
+}</component>
   <component name="ProjectId" id="3HXNMpLmwg2GvN4WWNuTho62rje" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -52,22 +74,40 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.BitFlips.executor": "Run",
+    "Application.Car.executor": "Run",
     "Application.CountOccuranceOfAnagramBruteForce.executor": "Run",
+    "Application.Demo.executor": "Run",
     "Application.FirstNonRepeatingCharacter.executor": "Debug",
     "Application.FrequencyOfCharacter.executor": "Run",
     "Application.LongestCommonPrefix.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MinimizeMaximumSum.executor": "Run",
     "Application.MissingElement.executor": "Run",
     "Application.MissingNumber.executor": "Run",
+    "Application.PalindromicCountOfSubstring.executor": "Run",
     "Application.ProductOfArrayExceptItself2.executor": "Run",
+    "Application.ReverseString344.executor": "Run",
     "Application.ReverseWord.executor": "Run",
+    "Application.SportCar.executor": "Run",
+    "Application.ThreadMain.executor": "Run",
+    "Application.ThreeSumBruteForce.executor": "Run",
+    "Application.ThreeSumOptimized.executor": "Run",
+    "Application.TreeSetDemo.executor": "Run",
     "Application.ValidParenthesis.executor": "Run",
+    "Application.atmmachine.Main.executor": "Run",
+    "Application.main.executor": "Run",
+    "Application.staticmethod.Car.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/GeetArjun/Desktop/Java-Programming/Test 6-8 OOPs/src"
+    "last_opened_file_path": "C:/Users/GeetArjun/Desktop/Java-Programming",
+    "nodejs_package_manager_path": "npm"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -75,13 +115,13 @@
       <recent name="C:\Users\GeetArjun\Desktop\Java-Programming\Test 6-8 OOPs\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CountOccuranceOfAnagramBruteForce">
-    <configuration name="CountOccuranceOfAnagramBruteForce" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="patterns.slidingwindow.CountOccuranceOfAnagramBruteForce" />
-      <module name="PracticeProgram" />
+  <component name="RunManager" selected="Application.Demo">
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambda.thread.synchronization.Demo" />
+      <module name="Java 8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="patterns.slidingwindow.*" />
+          <option name="PATTERN" value="lambda.thread.synchronization.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LongestCommonPrefix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.string.LongestCommonPrefix" />
+    <configuration name="PalindromicCountOfSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.twopointer.string.PalindromicCountOfSubstring" />
       <module name="PracticeProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.string.*" />
+          <option name="PATTERN" value="com.twopointer.string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +142,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProductOfArrayExceptItself2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.array.ProductOfArrayExceptItself2" />
+    <configuration name="ReverseString344" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.twopointer.string.ReverseString344" />
       <module name="PracticeProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.array.*" />
+          <option name="PATTERN" value="com.twopointer.string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +155,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.string.ReverseWord" />
-      <module name="PracticeProgram" />
+    <configuration name="ThreadMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambda.thread.ThreadMain" />
+      <module name="Java 8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.string.*" />
+          <option name="PATTERN" value="lambda.thread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,12 +168,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ValidParenthesis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.string.ValidParenthesis" />
-      <module name="PracticeProgram" />
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambda.evenNumber.main" />
+      <module name="Java 8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.string.*" />
+          <option name="PATTERN" value="lambda.evenNumber.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,11 +194,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CountOccuranceOfAnagramBruteForce" />
-        <item itemvalue="Application.ProductOfArrayExceptItself2" />
-        <item itemvalue="Application.ValidParenthesis" />
-        <item itemvalue="Application.LongestCommonPrefix" />
-        <item itemvalue="Application.ReverseWord" />
+        <item itemvalue="Application.Demo" />
+        <item itemvalue="Application.ThreadMain" />
+        <item itemvalue="Application.main" />
+        <item itemvalue="Application.ReverseString344" />
+        <item itemvalue="Application.PalindromicCountOfSubstring" />
       </list>
     </recent_temporary>
   </component>
@@ -182,6 +222,16 @@
           <url>file://$PROJECT_DIR$/PracticeProgram/src/com/string/FirstNonRepeatingCharacter.java</url>
           <line>4</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Test 11-8 Arrray/src/MinimizeMaximumSum.java</url>
+          <line>3</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Test 12-8 Advance Atm Machine/src/atmmachine/Main.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

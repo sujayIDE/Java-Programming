@@ -1,4 +1,10 @@
 package atmmachine;
 
-public class InsufficientBalance {
+public class InsufficientBalance extends RuntimeException{
+    public InsufficientBalance() {
+    }
+
+    public InsufficientBalance(String message) {
+        super(message);
+    }
 }
