@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="275d3e19-3278-4649-ae2d-54aca967a126" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Test 18-8 Exception handling/Test 18-8 Exception handling.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test 18-8 Exception handling/src/ExceptionMethodsDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test 18-8 Exception handling/src/NestedTryBlock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test 18-8 Exception handling/src/PropagationDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test 18-8 Exception handling/src/invalidage/CustomException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test 18-8 Exception handling/src/invalidage/InvalidAgeException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java 8/src/optional/OptionalMethods.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HelloWorld/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorld/src/Main.java" afterDir="false" />
     </list>
@@ -66,6 +60,7 @@
     "Application.NestedTryBlock.executor": "Run",
     "Application.NullPointerExceptionDemo.executor": "Run",
     "Application.NumberFormatDemo.executor": "Run",
+    "Application.OptionalMethods.executor": "Run",
     "Application.PalindromicCountOfSubstring.executor": "Run",
     "Application.ProductOfArrayExceptItself2.executor": "Run",
     "Application.PropagationDemo.executor": "Run",
@@ -106,14 +101,7 @@
       <recent name="C:\Users\GeetArjun\Desktop\Java-Programming" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CustomException">
-    <configuration name="ClassCastExceptionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ClassCastExceptionDemo" />
-      <module name="Test 17-8 Exception" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.OptionalMethods">
     <configuration name="CustomException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="invalidage.CustomException" />
       <module name="Test 18-8 Exception handling" />
@@ -141,6 +129,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="OptionalMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="optional.OptionalMethods" />
+      <module name="Java 8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="optional.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PropagationDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PropagationDemo" />
       <module name="Test 18-8 Exception handling" />
@@ -161,11 +162,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OptionalMethods" />
         <item itemvalue="Application.CustomException" />
         <item itemvalue="Application.NestedTryBlock" />
         <item itemvalue="Application.ExceptionMethodsDemo" />
         <item itemvalue="Application.PropagationDemo" />
-        <item itemvalue="Application.ClassCastExceptionDemo" />
       </list>
     </recent_temporary>
   </component>
