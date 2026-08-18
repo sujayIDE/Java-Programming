@@ -1,4 +1,12 @@
-package PACKAGE_NAME;
-
 public class ExceptionMethodsDemo {
+    public static void main(String[] args) {
+        try{
+            System.out.println(10/0);
+        }catch (ArithmeticException e)
+        {
+            System.out.println(e);
+            System.out.println(e.getMessage());
+            e.printStackTrace();
+        }
+    }
 }
