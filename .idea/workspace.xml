@@ -2,9 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="275d3e19-3278-4649-ae2d-54aca967a126" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Java 8/src/optional/OptionalMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Immutable Class/Immutable Class.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Immutable Class/src/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Immutable Class/src/ImmutableClassDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java 8/src/stream/typesofstreamoperation/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java 8/src/stream/typesofstreamoperation/TypeOfStreamOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticeProgram/src/com/slidingwindow/SubArrayProductLessThanK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticeProgram/src/com/slidingwindow/SubArrayProductLessThanKOptimized.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HelloWorld/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorld/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java 8/src/optional/OptionalMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java 8/src/optional/OptionalMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java 8/optional/OptionalMethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java 8/optional/OptionalMethods.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +60,7 @@
     "Application.FixedThreadPool.executor": "Run",
     "Application.FoodOrderApp.executor": "Run",
     "Application.FrequencyOfCharacter.executor": "Run",
+    "Application.ImmutableClassDemo.executor": "Run",
     "Application.LongestCommonPrefix.executor": "Run",
     "Application.LoweBoundWildCard.executor": "Run",
     "Application.Main.executor": "Run",
@@ -71,6 +81,7 @@
     "Application.ThreeSumBruteForce.executor": "Run",
     "Application.ThreeSumOptimized.executor": "Run",
     "Application.TreeSetDemo.executor": "Run",
+    "Application.TypeOfStreamOperation.executor": "Run",
     "Application.UnboundedWildCard.executor": "Run",
     "Application.UpperBoundWildCard.executor": "Run",
     "Application.ValidParenthesis.executor": "Run",
@@ -101,7 +112,7 @@
       <recent name="C:\Users\GeetArjun\Desktop\Java-Programming" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.OptionalMethods">
+  <component name="RunManager" selected="Application.TypeOfStreamOperation">
     <configuration name="CustomException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="invalidage.CustomException" />
       <module name="Test 18-8 Exception handling" />
@@ -115,9 +126,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExceptionMethodsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExceptionMethodsDemo" />
-      <module name="Test 18-8 Exception handling" />
+    <configuration name="ImmutableClassDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ImmutableClassDemo" />
+      <module name="Immutable Class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -142,9 +153,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PropagationDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PropagationDemo" />
-      <module name="Test 18-8 Exception handling" />
+    <configuration name="TypeOfStreamOperation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stream.typesofstreamoperation.TypeOfStreamOperation" />
+      <module name="Java 8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stream.typesofstreamoperation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -162,11 +179,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TypeOfStreamOperation" />
+        <item itemvalue="Application.ImmutableClassDemo" />
         <item itemvalue="Application.OptionalMethods" />
         <item itemvalue="Application.CustomException" />
         <item itemvalue="Application.NestedTryBlock" />
-        <item itemvalue="Application.ExceptionMethodsDemo" />
-        <item itemvalue="Application.PropagationDemo" />
       </list>
     </recent_temporary>
   </component>

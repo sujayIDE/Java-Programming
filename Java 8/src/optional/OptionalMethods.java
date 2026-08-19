@@ -40,6 +40,6 @@ public class OptionalMethods {
         //filter(Predicate<T> predicate)
         Optional<String> optional5=Optional.of("India");
         Optional<String> optional6 = optional5.filter(str -> str.startsWith("I"));
-        System.out.println(optional6.isPresent());
+        System.out.println(optional6);
     }
 }
