@@ -2,18 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="275d3e19-3278-4649-ae2d-54aca967a126" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Immutable Class/Immutable Class.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Immutable Class/src/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Immutable Class/src/ImmutableClassDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java 8/src/stream/typesofstreamoperation/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java 8/src/stream/typesofstreamoperation/TypeOfStreamOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PracticeProgram/src/com/slidingwindow/SubArrayProductLessThanK.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PracticeProgram/src/com/slidingwindow/SubArrayProductLessThanKOptimized.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java 8/src/stream/filter/FilterMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java 8/src/stream/filter/MapMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java 8/src/stream/flatMap/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java 8/src/stream/map/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java 8/src/stream/map/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java 8/src/stream/sorted/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java 8/src/stream/sorted/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticeProgram2/PracticeProgram2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticeProgram2/src/normal/LargestElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticeProgram2/src/normal/LinearSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticeProgram2/src/normal/MoveZeroesBegining.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticeProgram2/src/normal/PalindromeArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticeProgram2/src/normal/RemoveDuplicateFromSortedOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticeProgram2/src/normal/ReverseArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticeProgram2/src/normal/RotateArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticeProgram2/src/normal/SecondLargest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticeProgram2/src/normal/SecondSmallest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticeProgram2/src/normal/SmallestElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test 20-8 MethodCalling/Test 20-8 MethodCalling.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test 20-8 MethodCalling/src/task1/ClassA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test 20-8 MethodCalling/src/task2/Day_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test 20-8 MethodCalling/src/task3/MethodDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HelloWorld/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorld/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java 8/src/optional/OptionalMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java 8/src/optional/OptionalMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java 8/optional/OptionalMethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java 8/optional/OptionalMethods.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeProgram/src/com/slidingwindow/SubArrayProductLessThanKOptimized.java" beforeDir="false" afterPath="$PROJECT_DIR$/PracticeProgram/src/com/slidingwindow/SubArrayProductLessThanKOptimized.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +38,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -50,33 +65,50 @@
     "Application.Before_Generics.executor": "Run",
     "Application.BitFlips.executor": "Run",
     "Application.Car.executor": "Run",
+    "Application.ClassA.executor": "Run",
     "Application.ClassCastExceptionDemo.executor": "Run",
     "Application.CountOccuranceOfAnagramBruteForce.executor": "Run",
     "Application.CustomException.executor": "Run",
+    "Application.Day_4.executor": "Run",
     "Application.Demo.executor": "Run",
     "Application.ExceptionMethodsDemo.executor": "Run",
     "Application.FileTask.executor": "Run",
+    "Application.FilterMethod.executor": "Run",
     "Application.FirstNonRepeatingCharacter.executor": "Debug",
     "Application.FixedThreadPool.executor": "Run",
     "Application.FoodOrderApp.executor": "Run",
     "Application.FrequencyOfCharacter.executor": "Run",
     "Application.ImmutableClassDemo.executor": "Run",
+    "Application.LargestElement.executor": "Run",
+    "Application.LinearSearch.executor": "Run",
     "Application.LongestCommonPrefix.executor": "Run",
     "Application.LoweBoundWildCard.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.MapMethod.executor": "Run",
     "Application.MinimizeMaximumSum.executor": "Run",
     "Application.MissingElement.executor": "Run",
     "Application.MissingNumber.executor": "Run",
+    "Application.MoveZeroes.executor": "Run",
+    "Application.MoveZeroesBegining.executor": "Run",
+    "Application.MovesAllZeroesToBeginnig.executor": "Run",
     "Application.NestedTryBlock.executor": "Run",
     "Application.NullPointerExceptionDemo.executor": "Run",
     "Application.NumberFormatDemo.executor": "Run",
     "Application.OptionalMethods.executor": "Run",
+    "Application.PalindromeArray.executor": "Run",
     "Application.PalindromicCountOfSubstring.executor": "Run",
     "Application.ProductOfArrayExceptItself2.executor": "Run",
     "Application.PropagationDemo.executor": "Run",
+    "Application.RemoveDuplicateFromSortedOrder.executor": "Run",
+    "Application.ReverseArray.executor": "Run",
     "Application.ReverseString344.executor": "Run",
     "Application.ReverseWord.executor": "Run",
+    "Application.RotateArray.executor": "Run",
+    "Application.SecondLargest.executor": "Run",
+    "Application.SecondSmallest.executor": "Run",
+    "Application.SmallestElement.executor": "Run",
     "Application.SportCar.executor": "Run",
+    "Application.Test.executor": "Run",
     "Application.ThreadMain.executor": "Run",
     "Application.ThreeSumBruteForce.executor": "Run",
     "Application.ThreeSumOptimized.executor": "Run",
@@ -89,6 +121,8 @@
     "Application.com.threadlocal.demo.Main.executor": "Run",
     "Application.main.executor": "Run",
     "Application.staticmethod.Car.executor": "Run",
+    "Application.stream.flatMap.Main.executor": "Run",
+    "Application.stream.sorted.Main.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
@@ -111,14 +145,17 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\GeetArjun\Desktop\Java-Programming" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="stream.map" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.TypeOfStreamOperation">
-    <configuration name="CustomException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="invalidage.CustomException" />
-      <module name="Test 18-8 Exception handling" />
+  <component name="RunManager" selected="Application.RotateArray">
+    <configuration name="LinearSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="normal.LinearSearch" />
+      <module name="PracticeProgram2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="invalidage.*" />
+          <option name="PATTERN" value="normal.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,26 +163,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ImmutableClassDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ImmutableClassDemo" />
-      <module name="Immutable Class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NestedTryBlock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NestedTryBlock" />
-      <module name="Test 18-8 Exception handling" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="OptionalMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="optional.OptionalMethods" />
-      <module name="Java 8" />
+    <configuration name="PalindromeArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="normal.PalindromeArray" />
+      <module name="PracticeProgram2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="optional.*" />
+          <option name="PATTERN" value="normal.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,12 +176,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TypeOfStreamOperation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stream.typesofstreamoperation.TypeOfStreamOperation" />
-      <module name="Java 8" />
+    <configuration name="RemoveDuplicateFromSortedOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="normal.RemoveDuplicateFromSortedOrder" />
+      <module name="PracticeProgram2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stream.typesofstreamoperation.*" />
+          <option name="PATTERN" value="normal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="normal.ReverseArray" />
+      <module name="PracticeProgram2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="normal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RotateArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="normal.RotateArray" />
+      <module name="PracticeProgram2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="normal.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -179,11 +228,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TypeOfStreamOperation" />
-        <item itemvalue="Application.ImmutableClassDemo" />
-        <item itemvalue="Application.OptionalMethods" />
-        <item itemvalue="Application.CustomException" />
-        <item itemvalue="Application.NestedTryBlock" />
+        <item itemvalue="Application.RotateArray" />
+        <item itemvalue="Application.RemoveDuplicateFromSortedOrder" />
+        <item itemvalue="Application.LinearSearch" />
+        <item itemvalue="Application.PalindromeArray" />
+        <item itemvalue="Application.ReverseArray" />
       </list>
     </recent_temporary>
   </component>
@@ -222,6 +271,11 @@
           <url>file://$PROJECT_DIR$/Test 18-8 Exception handling/src/ExceptionMethodsDemo.java</url>
           <line>3</line>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/PracticeProgram2/src/normal/RotateArray.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

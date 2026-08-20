@@ -26,6 +26,7 @@
       <module fileurl="file://$PROJECT_DIR$/Pattern/Pattern.iml" filepath="$PROJECT_DIR$/Pattern/Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Polymorphism/Polymorphism.iml" filepath="$PROJECT_DIR$/Polymorphism/Polymorphism.iml" />
       <module fileurl="file://$PROJECT_DIR$/PracticeProgram/PracticeProgram.iml" filepath="$PROJECT_DIR$/PracticeProgram/PracticeProgram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PracticeProgram2/PracticeProgram2.iml" filepath="$PROJECT_DIR$/PracticeProgram2/PracticeProgram2.iml" />
       <module fileurl="file://$PROJECT_DIR$/RelationShip/RelationShip.iml" filepath="$PROJECT_DIR$/RelationShip/RelationShip.iml" />
       <module fileurl="file://$PROJECT_DIR$/ScannerExample/ScannerExample.iml" filepath="$PROJECT_DIR$/ScannerExample/ScannerExample.iml" />
       <module fileurl="file://$PROJECT_DIR$/SetterGetter/SetterGetter.iml" filepath="$PROJECT_DIR$/SetterGetter/SetterGetter.iml" />
@@ -41,6 +42,7 @@
       <module fileurl="file://$PROJECT_DIR$/Test 17-8 Exception/Test 17-8 Exception.iml" filepath="$PROJECT_DIR$/Test 17-8 Exception/Test 17-8 Exception.iml" />
       <module fileurl="file://$PROJECT_DIR$/Test 18-8 Exception handling/Test 18-8 Exception handling.iml" filepath="$PROJECT_DIR$/Test 18-8 Exception handling/Test 18-8 Exception handling.iml" />
       <module fileurl="file://$PROJECT_DIR$/Test 20-07 String/Test 20-07 String.iml" filepath="$PROJECT_DIR$/Test 20-07 String/Test 20-07 String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test 20-8 MethodCalling/Test 20-8 MethodCalling.iml" filepath="$PROJECT_DIR$/Test 20-8 MethodCalling/Test 20-8 MethodCalling.iml" />
       <module fileurl="file://$PROJECT_DIR$/Test 22-07 2D Array/Test 22-07 2D Array.iml" filepath="$PROJECT_DIR$/Test 22-07 2D Array/Test 22-07 2D Array.iml" />
       <module fileurl="file://$PROJECT_DIR$/Test 23-07 Sorting/Test 23-07 Sorting.iml" filepath="$PROJECT_DIR$/Test 23-07 Sorting/Test 23-07 Sorting.iml" />
       <module fileurl="file://$PROJECT_DIR$/Test 25-07 Encapsulation/Test 25-07 Encapsulation.iml" filepath="$PROJECT_DIR$/Test 25-07 Encapsulation/Test 25-07 Encapsulation.iml" />

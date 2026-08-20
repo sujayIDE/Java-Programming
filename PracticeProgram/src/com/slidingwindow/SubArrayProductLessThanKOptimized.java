@@ -12,7 +12,7 @@ public class SubArrayProductLessThanKOptimized {
             product*=nums[right];
             if(product<k)
             {
-                count++
+                count++;
             }else {
                 break;
             }
