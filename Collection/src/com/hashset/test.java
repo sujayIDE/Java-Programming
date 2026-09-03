@@ -1,4 +1,4 @@
 package com.hashset;
 
-public class Employee {
+public class test {
 }
