@@ -1,7 +1,6 @@
 package com.blockingqueue.arrayblockingqueue;
 
 import java.util.concurrent.ArrayBlockingQueue;
-import java.util.concurrent.ThreadLocalRandom;
 
 public class demo {
     public static void main(String[] args) {
