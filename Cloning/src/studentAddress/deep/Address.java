@@ -1,0 +1,40 @@
+package studentAddress.deep;
+
+public class Address implements Cloneable{
+    private String city;
+    private int pinCode;
+
+    public Address(String city, int pinCode) {
+        this.city = city;
+        this.pinCode = pinCode;
+    }
+
+    public String getCity() {
+        return city;
+    }
+
+    public void setCity(String city) {
+        this.city = city;
+    }
+
+    public int getPinCode() {
+        return pinCode;
+    }
+
+    public void setPinCode(int pinCode) {
+        this.pinCode = pinCode;
+    }
+
+    @Override
+    public String toString() {
+        return "Address{" +
+                "city='" + city + '\'' +
+                ", pinCode=" + pinCode +
+                '}';
+    }
+
+    @Override
+    protected Object clone() throws CloneNotSupportedException {
+        return super.clone();
+    }
+}
