@@ -1,6 +1,6 @@
 package normal.pattern;
 
-public class NumberPalindromePyramid {
+public class Pascal {
     public static void main(String[] args) {
         int n=5;
         for(int i=1;i<=n;i++)
@@ -9,13 +9,9 @@ public class NumberPalindromePyramid {
             {
                 System.out.print("  ");
             }
-            for(int k=1;k<=i;k++)
+            for(int k=1;k<=2*i-1;k++)
             {
-                System.out.print(k+" ");
-            }
-            for(int k=i-1;k>=1;k--)
-            {
-                System.out.print(k+" ");
+                System.out.print("* ");
             }
             System.out.println();
         }
