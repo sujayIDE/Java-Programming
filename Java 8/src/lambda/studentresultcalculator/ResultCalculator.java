@@ -1,4 +1,5 @@
 package lambda.studentresultcalculator;
 
-public interface Calculator {
+interface ResultCalculator {
+    String calculate(int marks);
 }

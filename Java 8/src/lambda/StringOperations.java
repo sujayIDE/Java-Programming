@@ -8,7 +8,7 @@ interface StringOperation {
     String reverse(String str);
 }
 
-public class CheckPalindrome {
+public class StringOperations {
     public static void main(String[] args) {
         //Palindrome
       Check palindrome=  str->{
@@ -30,6 +30,7 @@ public class CheckPalindrome {
         };
         System.out.println(palindrome.check("madam"));
 
+        //reverse
         StringOperation str=str1 ->
         {
             char[] ch=str1.toCharArray();

@@ -1,4 +1,7 @@
 package lambda.salaryCalculator;
 
-public class SalaryCalculator {
+interface SalaryCalculator {
+    double calculate(double salary);
 }
+
+

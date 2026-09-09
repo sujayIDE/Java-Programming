@@ -8,7 +8,7 @@ public class Max {
         List<Integer> numbers = List.of(10, 20, 30);
         numbers.stream()
                 .mapToInt(Integer::intValue)
-                .max()
+                .max();
 
     }
 }
