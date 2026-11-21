@@ -23,7 +23,7 @@ public class PredicateExample {
         stringConsumer.accept("Sujay");
 
         Supplier<Integer> supplier=()-> 100;
-        System.out.println();
+        System.out.println(supplier.get());
 
     }
 }
